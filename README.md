@@ -1,1 +1,1 @@
-# awpcopilot
+# Windows build for AWPCopilot
